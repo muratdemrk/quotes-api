@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "text": "Adalet evrenin ruhudur.",
+    "author": "Ömer Hayyam",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 2,
+    "text": "Adalet, insan topluluğunun kutsî bağıdır.",
+    "author": "P.D. GUOZIT",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 3,
+    "text": "Affetmek ve unutmak, iyi insanların intikamıdır.",
+    "author": "SCHİLLER",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 4,
+    "text": "Ağzında bal olan arının, kuyruğunda iğnesi vardır.",
+    "author": "JOHN LYLY",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 5,
+    "text": "Aile hayatının güzelliği gibi hiçbir şey yoktur.",
+    "author": "OSCAR WILDE",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 6,
+    "text": "Akıl yaşta değil baştadır. Doğru bir söz fakat aklı da başa yaş getirir.",
+    "author": "C. SAHABETTİN",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 7,
+    "text": "Akıllı adam hem kitapları, hem de doğrudan doğruya hayatı okur.",
+    "author": "LIN YUTANG",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 8,
+    "text": "Akıllı olmak da bir şey değil, mühim olan o aklı yerinde kullanmaktır.",
+    "author": "DESCARTES",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 9,
+    "text": "Aklın üç ilkesi: İyi düşünmek, iyi söylemek, iyi yapmaktır.",
+    "author": "DEMOKRİT",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 10,
+    "text": "Aklın ve ilmin üç büyük düşmanı vardır: Kötülük, bilgisizlik ve tembellik.",
+    "author": "HAECKEL",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 11,
+    "text": "Alışkanlıklar bırakılmazlarsa, zamanla ihtiyaç haline gelirler.",
+    "author": "ST. AGUSTİNE",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 12,
+    "text": "Alışkanlıkların zincirleri, önce duyulmayacak kadar hafif, sonra kırılamayacak kadar güçlü olurlar.",
+    "author": "BENJAMIN DIZRAELI",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 13,
+    "text": "Allah, dolu ellere değil, temiz ellere bakar.",
+    "author": "P.SYRUS",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 14,
+    "text": "Ana ailenin güneşidir. Bir ailede o olmazsa orada büyüyen çocuklar gölgede kalmış meyveler gibi olgunlaşmazlar.",
+    "author": "PESTALOZZI",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 15,
+    "text": "Arkadaşını yalnızken ikaz et, başkalarının yanında öv.",
+    "author": "PUBLIUS CYRUS",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 16,
+    "text": "Arkanı güneşe çevirme, gölgen önüne düşer.",
+    "author": "TAGORE",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 17,
+    "text": "Aşılmasına imkan olmayan hiçbir duvar yoktur.",
+    "author": "ÇEHOV",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 18,
+    "text": "Aşk, dört nala giden at gibidir, ne dizginden anlar, ne söz dinler.",
+    "author": "KONFÜÇYÜS",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 19,
+    "text": "Aşk, duyguların şiiridir.",
+    "author": "BALZAC",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 20,
+    "text": "Aşk, dünyanın en tatlı mutluluğu ile en derin acısından yaratılmıştır.",
+    "author": "BAILEY",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 21,
+    "text": "Aşkın gelişi, aklın gidişidir.",
+    "author": "ANTONINE BERT",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 22,
+    "text": "Aşk, güzelliğin aracılığıyla çoğalma arzusudur.",
+    "author": "SOKRATES",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 23,
+    "text": "Aşk, öyle engin bir denizdir ki, ne başlangıcı ne de sonu vardır.",
+    "author": "MEVLANA",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 24,
+    "text": "Ayakta ölmek, diz üstü yaşamaktan iyidir.",
+    "author": "ROOSEVELT",
+    "category": null,
+    "isFavorite": false
+  }
+]
