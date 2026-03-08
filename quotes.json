@@ -16,155 +16,1675 @@
   {
     "id": 3,
     "text": "Affetmek ve unutmak, iyi insanların intikamıdır.",
-    "author": "SCHİLLER",
+    "author": "Schiller",
     "category": null,
     "isFavorite": false
   },
   {
     "id": 4,
     "text": "Ağzında bal olan arının, kuyruğunda iğnesi vardır.",
-    "author": "JOHN LYLY",
+    "author": "John Lyly",
     "category": null,
     "isFavorite": false
   },
   {
     "id": 5,
     "text": "Aile hayatının güzelliği gibi hiçbir şey yoktur.",
-    "author": "OSCAR WILDE",
+    "author": "Oscar Wilde",
     "category": null,
     "isFavorite": false
   },
   {
     "id": 6,
     "text": "Akıl yaşta değil baştadır. Doğru bir söz fakat aklı da başa yaş getirir.",
-    "author": "C. SAHABETTİN",
+    "author": "C. Sahabettin",
     "category": null,
     "isFavorite": false
   },
   {
     "id": 7,
     "text": "Akıllı adam hem kitapları, hem de doğrudan doğruya hayatı okur.",
-    "author": "LIN YUTANG",
+    "author": "Lin Yutang",
     "category": null,
     "isFavorite": false
   },
   {
     "id": 8,
     "text": "Akıllı olmak da bir şey değil, mühim olan o aklı yerinde kullanmaktır.",
-    "author": "DESCARTES",
+    "author": "Descartes",
     "category": null,
     "isFavorite": false
   },
   {
     "id": 9,
     "text": "Aklın üç ilkesi: İyi düşünmek, iyi söylemek, iyi yapmaktır.",
-    "author": "DEMOKRİT",
+    "author": "Demokrit",
     "category": null,
     "isFavorite": false
   },
   {
     "id": 10,
     "text": "Aklın ve ilmin üç büyük düşmanı vardır: Kötülük, bilgisizlik ve tembellik.",
-    "author": "HAECKEL",
+    "author": "Haeckel",
     "category": null,
     "isFavorite": false
   },
   {
     "id": 11,
     "text": "Alışkanlıklar bırakılmazlarsa, zamanla ihtiyaç haline gelirler.",
-    "author": "ST. AGUSTİNE",
+    "author": "St. Agustine",
     "category": null,
     "isFavorite": false
   },
   {
     "id": 12,
     "text": "Alışkanlıkların zincirleri, önce duyulmayacak kadar hafif, sonra kırılamayacak kadar güçlü olurlar.",
-    "author": "BENJAMIN DIZRAELI",
+    "author": "Benjamin Dizraeli",
     "category": null,
     "isFavorite": false
   },
   {
     "id": 13,
     "text": "Allah, dolu ellere değil, temiz ellere bakar.",
-    "author": "P.SYRUS",
+    "author": "P. Syrus",
     "category": null,
     "isFavorite": false
   },
   {
     "id": 14,
     "text": "Ana ailenin güneşidir. Bir ailede o olmazsa orada büyüyen çocuklar gölgede kalmış meyveler gibi olgunlaşmazlar.",
-    "author": "PESTALOZZI",
+    "author": "Pestalozzi",
     "category": null,
     "isFavorite": false
   },
   {
     "id": 15,
     "text": "Arkadaşını yalnızken ikaz et, başkalarının yanında öv.",
-    "author": "PUBLIUS CYRUS",
+    "author": "Publius Cyrus",
     "category": null,
     "isFavorite": false
   },
   {
     "id": 16,
     "text": "Arkanı güneşe çevirme, gölgen önüne düşer.",
-    "author": "TAGORE",
+    "author": "Tagore",
     "category": null,
     "isFavorite": false
   },
   {
     "id": 17,
     "text": "Aşılmasına imkan olmayan hiçbir duvar yoktur.",
-    "author": "ÇEHOV",
+    "author": "Çehov",
     "category": null,
     "isFavorite": false
   },
   {
     "id": 18,
     "text": "Aşk, dört nala giden at gibidir, ne dizginden anlar, ne söz dinler.",
-    "author": "KONFÜÇYÜS",
+    "author": "Konfüçyüs",
     "category": null,
     "isFavorite": false
   },
   {
     "id": 19,
     "text": "Aşk, duyguların şiiridir.",
-    "author": "BALZAC",
+    "author": "Balzac",
     "category": null,
     "isFavorite": false
   },
   {
     "id": 20,
     "text": "Aşk, dünyanın en tatlı mutluluğu ile en derin acısından yaratılmıştır.",
-    "author": "BAILEY",
+    "author": "Bailey",
     "category": null,
     "isFavorite": false
   },
   {
     "id": 21,
     "text": "Aşkın gelişi, aklın gidişidir.",
-    "author": "ANTONINE BERT",
+    "author": "Antonine Bert",
     "category": null,
     "isFavorite": false
   },
   {
     "id": 22,
     "text": "Aşk, güzelliğin aracılığıyla çoğalma arzusudur.",
-    "author": "SOKRATES",
+    "author": "Sokrates",
     "category": null,
     "isFavorite": false
   },
   {
     "id": 23,
     "text": "Aşk, öyle engin bir denizdir ki, ne başlangıcı ne de sonu vardır.",
-    "author": "MEVLANA",
+    "author": "Mevlana",
     "category": null,
     "isFavorite": false
   },
   {
     "id": 24,
     "text": "Ayakta ölmek, diz üstü yaşamaktan iyidir.",
-    "author": "ROOSEVELT",
+    "author": "Roosevelt",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 25,
+    "text": "Bana iyi analar veriniz, size iyi vatandaşlar vereyim.",
+    "author": "N. Bonaparte",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 26,
+    "text": "Bana ya hürriyet verin, ya da ölüm.",
+    "author": "Patrick Hengy",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 27,
+    "text": "Başarı, cesaretin çocuğudur.",
+    "author": "Benjamin Disraeli",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 28,
+    "text": "Başkalarının hürriyetlerini tanımayanlar, hürriyete layık değildir.",
+    "author": "Abraham Lincoln",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 29,
+    "text": "Ben bilmediğimi bildiğim için, öteki insanlardan akıllıyım.",
+    "author": "Sokrates",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 30,
+    "text": "Bencil insan, tek başına kalmış meyvesiz bir ağaç gibi kurur gider.",
+    "author": "Turgenyev",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 31,
+    "text": "Bencillik dostluğun zehiridir.",
+    "author": "Balzac",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 32,
+    "text": "Beni isterseniz dövün, ama bırakın istediğim gibi güleyim.",
+    "author": "Moliere",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 33,
+    "text": "Beşikten mezara kadar bilim öğrenin.",
+    "author": "Hz. Muhammed",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 34,
+    "text": "Bilgili olduğumuz oranda özgür oluruz.",
+    "author": "Sokrates",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 35,
+    "text": "Bilginlerle beraber düşünmeli, halkla birlikte hareket etmelidir.",
+    "author": "Berkley",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 36,
+    "text": "Bilim ve sanat bütün dünyanın malıdır, milletlerin sınırlarını tanımaz.",
+    "author": "Goethe",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 37,
+    "text": "Bilimsiz şiir, temelsiz duvara benzer.",
+    "author": "Fuzuli",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 38,
+    "text": "Bir adamın şöhreti gölgesine benzer, yükseldikçe büyür, düştükçe küçülür.",
+    "author": "Allegrand",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 39,
+    "text": "Bir düşünce bir ateşten daha çok ileriyi ısıtabilir.",
+    "author": "Long Fellow",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 40,
+    "text": "Bir gencin hata yapmasını önlersen, onun kararlarını da kendi kendine vermesini önlemiş olursun.",
+    "author": "John Erskin",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 41,
+    "text": "Bir insanda kibir, hırs ve şehvet söz söylerken soğan kokar.",
+    "author": "Mevlana",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 42,
+    "text": "Bir insanın gerçek zenginliği, onun bu dünyada yaptığı iyiliklerdir.",
+    "author": "Hz. Muhammed",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 43,
+    "text": "Bir insanın tek başına mutlu olması, utanılacak bir şeydir.",
+    "author": "Albert Camus",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 44,
+    "text": "Bir iş yapmak için neden yarını bekliyorsun. Bugün de dünün bir yarını değil midir.",
+    "author": "Ömer Hayyam",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 45,
+    "text": "Bir kişiye yapılmış haksızlık, bütün topluma yöneltilmiş bir tehdittir.",
+    "author": "Montesquieu",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 46,
+    "text": "Bir mermer parçası için heykeltıraş ne ise, ruh içinde eğitim olur.",
+    "author": "Cervantes",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 47,
+    "text": "Bir okul açan, bir hapishane kapatır.",
+    "author": "Victor Hugo",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 48,
+    "text": "Bir paranın nereden geldiğini görmek istiyorsan, nereye gittiğine bak.",
+    "author": "Ebu Hanife",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 49,
+    "text": "Bir şeyi bildiğin zaman, onu bildiğini göstermeye çalış. Bir şeyi bilmiyorsan, onu bilmediğini kabul et. İşte bu bilgidir.",
+    "author": "Konfüçyüs",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 50,
+    "text": "Bir ulusun büyüklüğü, nüfusun çokluğu ile değil, akıllı ve erdemli kişilerin sayısıyla ölçülür.",
+    "author": "Victor Hugo",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 51,
+    "text": "Bir ülkenin geleceği o ülke insanlarının göreceği eğitime bağlıdır.",
+    "author": "Albert Einstein",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 52,
+    "text": "Bizce aklı başında adam yalnız bizim gibi düşünendir.",
+    "author": "La Roehefoucould",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 53,
+    "text": "Bu dünyaya istediğimiz gibi gelmedik, bu dünyadan istediğimiz gibi gidemeyiz.",
+    "author": "Ömer Hayyam",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 54,
+    "text": "Bütün donanımıyla askere değil de elinde alfabesiyle öğretmene güvenirim.",
+    "author": "Brougham",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 55,
+    "text": "Bilginin efendisi olmak için çalışmanın uşağı olmak şarttır.",
+    "author": "Balzac",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 56,
+    "text": "Bir milletin büyüklüğü, nüfusunun çokluğu ile değil, akıllı ve fazilet sahibi adamlarının sayısı ile belli olur.",
+    "author": "Victor Hugo",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 57,
+    "text": "Cahil kimsenin yanında kitap gibi sessiz ol.",
+    "author": "Mevlana",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 58,
+    "text": "Camdan evde oturanlar başkalarına taş atmamalıdırlar.",
+    "author": "G. Nerbert",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 59,
+    "text": "Cennet anaların ayakları altındadır.",
+    "author": "Hz. Muhammed",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 60,
+    "text": "Cesaret cennete, korku ölüme sürükler.",
+    "author": "Seneca",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 61,
+    "text": "Cesaret insanı zafere, korkaklık ölüme götürür.",
+    "author": "Seneca",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 62,
+    "text": "Cesareti olmayan adamın başarısı olmaz.",
+    "author": "Puldius Cyrus",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 63,
+    "text": "Cesaretle dolu bir insan, inançla dolu bir insandır.",
+    "author": "Cicero",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 64,
+    "text": "Cibilliyetsize ilim öğretmek, eşkıyanın eline kılıç vermektir.",
+    "author": "Mevlana",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 65,
+    "text": "Çalışma, doğanın anasıdır; mutlak bir dinlenme ölüm demektir.",
+    "author": "Pascal",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 66,
+    "text": "Çiçek koku vermek, ateş ısıtmak, kadında mesut etmek için yaratılmıştır.",
+    "author": "G. Gardony",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 67,
+    "text": "Çocuğa küçük şeylerden zevk almasını öğreten, ona büyük bir servet bırakmış olur.",
+    "author": "Etienne Gilson",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 68,
+    "text": "Çocuklara, babalarının yeteneklerine göre değil, kendi yeteneklerine göre meslek bulmak gerekir.",
+    "author": "Platon",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 69,
+    "text": "Çocuklarınıza dilini tutmasını öğretin. Konuşmasını nasıl olsa öğrenecektir.",
+    "author": "Franklin",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 70,
+    "text": "Dedikodu, basit ruhlu insanların eğlencesidir.",
+    "author": "Jorneille",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 71,
+    "text": "Dehanın ilk ve en büyük şartı hakikati sevmektir.",
+    "author": "Geothe",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 72,
+    "text": "Deney, aklın babası, belleğin anasıdır.",
+    "author": "Thomas Fuller",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 73,
+    "text": "Dil, bir ulusun aynasıdır. Bu aynaya baktığımız zaman, orada kendimizin gerçek yankısını görürüz.",
+    "author": "Schiller",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 74,
+    "text": "Doğru düşündüğüne inanan yanlış fikirlerle savaşmak zorunda kalır.",
+    "author": "Mehmet Kaplan",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 75,
+    "text": "Doğruluk, insanın kalbinin en gerçek anlatımıdır.",
+    "author": "Konfüçyüs",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 76,
+    "text": "Duvarda bir gedik açmaya bir taşın eskimesi yeter.",
+    "author": "A. Nihat Asya",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 77,
+    "text": "Dünya değirmen taşına benzer, her saat nice kalpler öğütür.",
+    "author": "Şeyh Sadi",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 78,
+    "text": "Dünyada her şeye değer biçmek mümkündür, fakat öğretmenin eserine asla değer biçilemez.",
+    "author": "Sokrat",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 79,
+    "text": "Düşüncesiz öğrenme, boşuna giden bir çabadır.",
+    "author": "Konfüçyüs",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 80,
+    "text": "Düşünmeden konuşmak, nişan almadan ateş etmeye benzer.",
+    "author": "R. Digest",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 81,
+    "text": "Düşünmediğim zaman, yaşamadığım zamandır.",
+    "author": "Rembrandt",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 82,
+    "text": "Düşünmek ve söylemek kolay, fakat yaşamak, hele başarı ile sonuçlandırmak çok zordur.",
+    "author": "Ziya Gökalp",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 83,
+    "text": "Düzyazı yürümeye, şiir ise dansa benzetilebilir. Yürümenin kendisi dışında bir amacı vardır. Dansın amacı ise, kendisidir.",
+    "author": "Valery",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 84,
+    "text": "Eğitim öğrencilere saygıyla başlar.",
+    "author": "Emerson",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 85,
+    "text": "Eğri cetvelden doğru çizgi çıkmaz.",
+    "author": "Hz. Ali",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 86,
+    "text": "En büyük acı, acıtmaz olmuş zincirlerin acısıdır; köleliği kabul etmenin, başkaldırmaktan vazgeçmenin acıdır.",
+    "author": "A. Nihat Asya",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 87,
+    "text": "En büyük cezaevi, cahil bir insanın kafasının içidir.",
+    "author": "Montaigne",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 88,
+    "text": "En kudretli insan, kendisine hakim olandır.",
+    "author": "Seneca",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 89,
+    "text": "En sürekli aşk, karşılıklı olmayan aşktır.",
+    "author": "Somerst Maugam",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 90,
+    "text": "En tehlike insanlar yarı deliler ve yarım akıllılardır.",
+    "author": "Goethe",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 91,
+    "text": "En verimli yağmur alın teridir.",
+    "author": "C. Sahabettin",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 92,
+    "text": "Erdem, iyiyi elde etme gücüdür.",
+    "author": "Eflatun",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 93,
+    "text": "Erkekler, kadınların ilk aşkı, kadınlar da erkeklerin son aşkı olmak isterler.",
+    "author": "Oscar Wilde",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 94,
+    "text": "Eskimiş fikirler paslanmış çivilere benzer, söküp atmak çok güçtür.",
+    "author": "C. Şahabettin",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 95,
+    "text": "Evlilikte başarı, yalnız aranan kişiyi bulmakta değil, aynı zamanda aranan kişi olmaktadır.",
+    "author": "Foster Wood",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 96,
+    "text": "Felaket, dost sayısını sıfıra indirir.",
+    "author": "W. Shakespeare",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 97,
+    "text": "Felaket içinde karar verebilmek yarı kurtuluştur.",
+    "author": "Pastalozzi",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 98,
+    "text": "Felaketlerin üstünde dimdik oturan insan soylu ve cesurdur.",
+    "author": "Napolcon",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 99,
+    "text": "Fenalıkların ilki ve en büyüğü, haksızlıkların cezasız kalmasıdır.",
+    "author": "Eflatun",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 100,
+    "text": "Geç kalan teselli, idamdan sonraki affa benzer.",
+    "author": "Shakespare",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 101,
+    "text": "Geçmişi hatırlayamayanlar, onu bir kere daha yaşamak zorunda kalırlar.",
+    "author": "G. Santayana",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 102,
+    "text": "Gençken bilgi ağacını dikmezsek, ihtiyarlığımızda gölgesinde barınacak ağacımız olmayacaktır.",
+    "author": "Chesterfield",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 103,
+    "text": "Gençler! Muhakkak evlenin. Eşiniz iyi çıkarsa mutlu, kötü çıkarsa benim gibi filozof olursunuz.",
+    "author": "Sokrat",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 104,
+    "text": "Gençliğe üç öğüdüm vardır: ÇALIŞ, ÇALIŞ, ÇALIŞ.",
+    "author": "Bismark",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 105,
+    "text": "Gençliğin parlak lügatinde başarısızlık diye bir kelime yoktur.",
+    "author": "E. Bulwer Lytton",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 106,
+    "text": "Gençlik, rüzgarların savurduğu gül yapraklarının arkasından koşar.",
+    "author": "N. Lenau",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 107,
+    "text": "Gerçeğin dağlarına umutsuzlukla çıkılmaz.",
+    "author": "Nietzsche",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 108,
+    "text": "Gerçek arkadaşlık sıhhat gibidir, değeri ancak o yok olduktan sonra anlaşılır.",
+    "author": "Golti",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 109,
+    "text": "Gerçek bilgi; yaparak, denenerek öğrenilen bilgidir.",
+    "author": "Descartes",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 110,
+    "text": "Gerçek bir arkadaş, iki gövdede yaşayan bir ruhtur.",
+    "author": "Aristo",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 111,
+    "text": "Gülmek bir güneştir. İnsanın yüzünden hüzün ve keder kışını defeder.",
+    "author": "Victor Hugo",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 112,
+    "text": "Gündüz kandilini hazırlamayan, gece karanlığa razı demektir.",
+    "author": "Cenap Şahabettin",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 113,
+    "text": "Güzel bedenler için zevk, güzel ruhlar içinde ıstırap gerektir.",
+    "author": "Oscar Wilde",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 114,
+    "text": "Güzel bir kıyafet iyi bir tavsiye mektubudur.",
+    "author": "C. Şahabettin",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 115,
+    "text": "Güzel düşün, iyi hisset, aldanma; ne varsa doğrudadır; doğruluk şaşar sanma.",
+    "author": "T. Fikret",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 116,
+    "text": "Güzel sanatlar, insanın kafasının, kalbinin birlikte çalıştığı şeylerdir.",
+    "author": "Bacon",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 117,
+    "text": "Güzellik, çoğu zaman kusurları gizleyen bir örtüdür.",
+    "author": "Balzac",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 118,
+    "text": "Güzellik müthiş bir kudret, gülümseme ise onun kılıcıdır.",
+    "author": "Charles Reack",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 119,
+    "text": "Güzellik ile akıl nâdiren birarada bulunurlar.",
+    "author": "Perronius",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 120,
+    "text": "Hafızasız baş, bekçisiz kaleye benzer.",
+    "author": "Napoleon",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 121,
+    "text": "Hak beklediğin bir yola yalnız da olsan gideceksin.",
+    "author": "Tevfik Fikret",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 122,
+    "text": "Haset, insanların duyguları içinde en can sıkıcı ve devamlı olanıdır.",
+    "author": "Bacon",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 123,
+    "text": "Hata yapmaktan korkan insan, hiçbir şey yapamaz.",
+    "author": "Lincoln",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 124,
+    "text": "Hayat Tanrının bize sunduğu bir armağandır; onu değerlendirme biçimimiz ise bizim yaratıcıya sunduğumuz armağandır.",
+    "author": "Leo Buscaglie",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 125,
+    "text": "Hayat yaşla değil, yaşamakla anlaşılır.",
+    "author": "Andre Gide",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 126,
+    "text": "Hedefi olmayan gemiye hiçbir rüzgar yardım etmez.",
+    "author": "Montaigne",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 127,
+    "text": "Hepimiz kahkahalarımızı göz yaşlarımızla ödüyoruz.",
+    "author": "Peyami Safa",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 128,
+    "text": "Her büyük sanatçı, sanata kendi damgasını vurur.",
+    "author": "Victor Hugo",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 129,
+    "text": "Herkes insanlığı değiştirmeyi düşünür ama hiç kimse önce kendini değiştirmeyi düşünmez.",
+    "author": "Tolstoy",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 130,
+    "text": "Her şeyin başlangıcı küçüktür.",
+    "author": "Cicero",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 131,
+    "text": "Hiç kimse başarı merdivenine elleri cebinde tırmanmamıştır.",
+    "author": "J. Keth Moorhead",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 132,
+    "text": "Hiçbir miras doğruluk kadar zengin değildir.",
+    "author": "Shakespeare",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 133,
+    "text": "Hiçbir şey, ele geçince hayalde olduğu kadar güzel kalmaz.",
+    "author": "N. Richard Nash",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 134,
+    "text": "Hiçbir insan, kollarında bir çocuk tutan anne kadar çekici ve birkaç çocuk arasındaki bir anne kadar saygıya layık değildir.",
+    "author": "Goethe",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 135,
+    "text": "İki günü eşit olan ziyandadır.",
+    "author": "Hz. Muhammed",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 136,
+    "text": "İlim öyle bir şeydir ki sen ona tüm gücünü vermedikçe o sana yarısını bile vermez.",
+    "author": "Ebu Yusuf",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 137,
+    "text": "İlimle geçen bir gece, ibadetle geçen bin geceden hayırlıdır.",
+    "author": "Hz. Muhammed",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 138,
+    "text": "İnsan; düşünmek, sevmek, inanmak için dünyaya gelmiştir.",
+    "author": "J.J. Rousseau",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 139,
+    "text": "İnsan eğitimle doğmaz, ama eğitimle yaşar.",
+    "author": "Cervantes",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 140,
+    "text": "İnsan, gülmediği günü, yaşadım diye hayat defterine kaydetmemelidir.",
+    "author": "Sokrates",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 141,
+    "text": "İnsan, hayatının dörtte üçünü yapamayacağı şeylerle geçirir.",
+    "author": "Diderot",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 142,
+    "text": "İnsan hür olarak yaratılmış, zincire vurulmuş olarak bile doğsa, yine hürdür.",
+    "author": "Schiller",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 143,
+    "text": "İnsan ne kadar çok okursa o kadar çok yükselebileceğini bilmelidir.",
+    "author": "O.J. Bangs",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 144,
+    "text": "İnsan zaman öldürmek için değil; faydalı hoş bir an geçirmek için okumalıdır.",
+    "author": "Oliver Goitmidh",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 145,
+    "text": "İnsanın dostu yoktur, saadetin dostu vardır.",
+    "author": "Napoleon",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 146,
+    "text": "İnsanın kendini fethetmesi zaferlerin en büyüğüdür.",
+    "author": "Eflatun",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 147,
+    "text": "İnsanlar birbirleri içindir; birbirlerine aittir.",
+    "author": "Goethe",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 148,
+    "text": "İnsanlar önce para kazanmak için sağlıklarını, sonra da sağlıklarını kazanmak için paralarını verirler.",
+    "author": "Goethe",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 149,
+    "text": "İş bizden iki fenalığı uzaklaştırır: can sıkıntısı, kötülük.",
+    "author": "Voltaire",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 150,
+    "text": "İşin güç kısmı, adam olmak değil, adam kalmaktır.",
+    "author": "Andre Mazerelles",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 151,
+    "text": "İyi olmak kolaydır, zor olan adil olmaktır.",
+    "author": "V. Hugo",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 152,
+    "text": "İyiliğe gücün yetmezse, kötülük etme.",
+    "author": "Aristo",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 153,
+    "text": "İyiliği yalnız iyiler anlar, kötülüğü herkes.",
+    "author": "Cenap Şahabettin",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 154,
+    "text": "İnsan gençliğinde öğrenir, ihtiyarlığında anlar.",
+    "author": "Eschenbach",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 155,
+    "text": "İnsanın en büyük düşmanı, bizzat kendisidir.",
+    "author": "Çiçero",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 156,
+    "text": "Kabukta dolaşan böcek, meyvenin tadını alamaz.",
+    "author": "Şahsuvar",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 157,
+    "text": "Kaptanın ustalığı deniz durgunken anlaşılır mı?",
+    "author": "Lukianos",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 158,
+    "text": "Kendi dilini bilmeyen başka dil öğrenemez.",
+    "author": "B. Shaw",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 159,
+    "text": "Kendisini pek çok seven, çevresinde pek az sevilir.",
+    "author": "C. Şahabettin",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 160,
+    "text": "Kıskanç daha çok sever, fakat kıskanç olmayan daha iyi sever.",
+    "author": "Molier",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 161,
+    "text": "Kıskançlığımızı ancak sevgi ile yenebiliriz.",
+    "author": "Goethe",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 162,
+    "text": "Kim büyük fikirler için yaşıyorsa, kendisini unutmalıdır.",
+    "author": "La-Edri",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 163,
+    "text": "Kitapsız yaşamak, kör sağır, dilsiz yaşamaktır.",
+    "author": "Seneca",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 164,
+    "text": "Konuşma, insanın aklını kullanma sanatıdır.",
+    "author": "Eflatun",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 165,
+    "text": "Konuşmak ihtiyaç olabilir ama susmak sanattır.",
+    "author": "Goethe",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 166,
+    "text": "Korkunun kaynağı bilgisizliktir.",
+    "author": "Emerson",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 167,
+    "text": "Kötü haberlerin kanatları vardır, iyi haberlerin ayakları bile yoktur.",
+    "author": "Margaret Cavendish",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 168,
+    "text": "Kralda dilencide aynı iştahla acıkırlar.",
+    "author": "Montaigne",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 169,
+    "text": "Kusurlarınızı hemen söyleyecek arkadaşlar bulun.",
+    "author": "Boileau",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 170,
+    "text": "Küçük hediyeler dostluk, büyük hediyeler sevgi meydana getirir.",
+    "author": "Licterberg",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 171,
+    "text": "Küçüklerin büyüklük taslaması kadar tehlikeli bir şey yoktur.",
+    "author": "Slefan Zweig",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 172,
+    "text": "Leyla’nın güzelliğine ancak Mecnun gözüyle bakmalısın ki onu seyretmenin sırrı sana da görünsün.",
+    "author": "Sadi",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 173,
+    "text": "Namuslu birisini aldatmak kadar kolay bir şey yoktur.",
+    "author": "La Fontaine",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 174,
+    "text": "Nankörlük, zayıf insanların işidir, kudretli insanlar içinde asla nankör olana rastlamadım.",
+    "author": "Goethe",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 175,
+    "text": "Ne kadar bilirsen bil, söylediklerin karşındakilerin anlayabileceği kadardır.",
+    "author": "Mevlana",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 176,
+    "text": "Nezaket hiçten gelir; ama her şeyi satın alır.",
+    "author": "Dr. V. Pauchet",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 177,
+    "text": "Okullar demokrasinin kalesidir.",
+    "author": "Horace Mann",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 178,
+    "text": "Okumak; haz duymaya, zihnimizi beslemeye, yeteneklerimizi artırmaya yarar.",
+    "author": "Bacon",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 179,
+    "text": "Okumak; insana olgunluk, konuşmada canlılık, yazmada açıklık verir.",
+    "author": "Bacon",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 180,
+    "text": "Öğrenmek pahalıdır ama cehalet çok daha pahalıdır.",
+    "author": "H. Clausen",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 181,
+    "text": "Öğretmen bir kandile benzer, kendini tüketerek başkalarına ışık verir.",
+    "author": "Ruffini",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 182,
+    "text": "Ömrünü seyahatle geçirenler birçok otelci bulur, ama dostluk kuramaz.",
+    "author": "Seneca",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 183,
+    "text": "Önyargıları kırmak atom çekirdeğini parçalamaktan daha zordur.",
+    "author": "Einstein",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 184,
+    "text": "Öyle horozlar vardır ki öttükleri için sabahın olduğunu sanırlar.",
+    "author": "G. Dumant",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 185,
+    "text": "Para arttıkça, para sevgisi de artar.",
+    "author": "Juveral",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 186,
+    "text": "Para ile satın alınan sadakat, daha fazla para ile de satılır.",
+    "author": "Seneca",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 187,
+    "text": "Resim, sözcüksüz şiirdir.",
+    "author": "Horatius",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 188,
+    "text": "Sağlık bir beden değil, bir kafa meselesidir.",
+    "author": "M.B. Eddy",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 189,
+    "text": "Sanat, doğaya eklenmiş insandır.",
+    "author": "Bacon",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 190,
+    "text": "Sanat hem bir coşma, hem bir yadsıma işidir.",
+    "author": "Albert Camus",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 191,
+    "text": "Sanat, insanın doğaya eklediği bir şeydir.",
+    "author": "Alain",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 192,
+    "text": "Sanat, özgürlük tarafından emzirildikçe büyür.",
+    "author": "Schiller",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 193,
+    "text": "Sanat, şiddeti ortadan kaldırmalıdır, yalnız o yapabilir bunu.",
+    "author": "Tolstoy",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 194,
+    "text": "Sanat, toplumsal bir çabadır; toplumdan gelir, topluma döner. Fakat gelenle giden aynı şey değildir.",
+    "author": "Attila İlhan",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 195,
+    "text": "Sanat ve sanatçıdan yoksun bir toplumun canlılığı olmaz.",
+    "author": "M. Kemal Atatürk",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 196,
+    "text": "Sanatın düşmanı bilgisizliktir.",
+    "author": "Samuel Johnson",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 197,
+    "text": "Sanatsız kalan bir milletin hayat damarlarından biri kopmuş demektir.",
+    "author": "M. Kemal Atatürk",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 198,
+    "text": "Sanatta temel olan, yeni ve kişisel bir şey söylemektir. Büyük sanatçı bununla belli olur.",
+    "author": "Tolstoy",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 199,
+    "text": "Saygı olmayan yerde aşk da olmaz.",
+    "author": "Emile Zola",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 200,
+    "text": "Sevdiği bir işi bulan insan mutludur.",
+    "author": "Thomas Carlyle",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 201,
+    "text": "Sevdiklerimize vereceğimiz en değerli hediye, ne altın ne de mücevher. Yalnız kendimizden bir küçük parça.",
+    "author": "Raldp Waldo Emerson",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 202,
+    "text": "Size yapılan en ufak yardımı sakın unutmayınız, yaptığınız en büyük yardımı ise hiçbir vakit hatırlamayınız.",
+    "author": "Chilon",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 203,
+    "text": "Suçu toplum hazırlar, suçlu işler.",
+    "author": "Buckle",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 204,
+    "text": "Susan bir bilgin, bir kelime söylemeyen aptaldan farksızdır.",
+    "author": "Moliere",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 205,
+    "text": "Susmayı bilmek söylemeyi bilmekten daha nadir bir meziyettir.",
+    "author": "Ambroise",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 206,
+    "text": "Şair, her şeyden önce yaşadığı toplumun sorunlarına, giderek tüm dünyaya karşı sorumludur.",
+    "author": "Neruda",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 207,
+    "text": "Şerefli bir ölüm, şerefsiz bir ömürden daha iyidir.",
+    "author": "Tacitüs",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 208,
+    "text": "Şiir benim içimde bir amaç değil, tutkudur.",
+    "author": "Edgar Allen Poe",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 209,
+    "text": "Şiir, düşüncelerle değil, sözcüklerle yazılır.",
+    "author": "Mallarme",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 210,
+    "text": "Şiir, güzellikte çarpışan tek gerçektir.",
+    "author": "Glfillon",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 211,
+    "text": "Şiir, hem ozanın hem de yazıldığı çağın resmidir.",
+    "author": "Erik Stinus",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 212,
+    "text": "Şiirin, düzyazıdan ayrıldığı nokta şudur: Az sözcükle çok şey söylemek.",
+    "author": "Voltaire",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 213,
+    "text": "Talebelerine öğrenme arzusu aşılayamayan bir öğretmen soğuk demiri döven bir demirci gibidir.",
+    "author": "Horace Mann",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 214,
+    "text": "Tam dostluk benzer arkadaşlar arasında olur.",
+    "author": "Nietzche",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 215,
+    "text": "Tatlı dil, her kapıyı açan sihirli bir anahtardır.",
+    "author": "Montaigne",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 216,
+    "text": "Tatlı sözler, şiddetli bir öfkeye karşı en tesirli ilaçtır.",
+    "author": "Aiskhyos",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 217,
+    "text": "Tilki, kümesi iyi tanıyor diye bekçi yapılır mı?",
+    "author": "Truman",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 218,
+    "text": "Toplumun insanlık özelliği, güzel sanatlarla beslenir.",
+    "author": "İsmet İnönü",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 219,
+    "text": "Tüm sanatlar kardeştir, hepsi de birbirinin ışığı altında ilerler.",
+    "author": "Voltaire",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 220,
+    "text": "Türk ulusunun tarihsel bir niteliği de güzel sanatları sevmek ve onlarda yükselmektir.",
+    "author": "M. Kemal Atatürk",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 221,
+    "text": "Ulusların zenginliği ipek, pamuk, altın değil, insandır.",
+    "author": "Richard Hovey",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 222,
+    "text": "Umut insanı uyandıran bir rüyadır.",
+    "author": "Aristo",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 223,
+    "text": "Unutma ki ağzında bal olan arının kuyruğunda iğnesi vardır.",
+    "author": "Lyly",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 224,
+    "text": "Unutma ki şairleri haykırmayan bir millet, sevenleri toprak olmuş öksüz çocuk gibidir.",
+    "author": "M. Emin Yurdakul",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 225,
+    "text": "Uşağım dahi olsa, hatalarımı düzelten efendim olur.",
+    "author": "Goethe",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 226,
+    "text": "Ümidini kaybetmiş olanın, başka kaybedecek şeyi yoktur.",
+    "author": "Bolse",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 227,
+    "text": "Ya sus yada susmaktan daha değerli şeyler söyle.",
+    "author": "Phtagore",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 228,
+    "text": "Yalanı söküp atmadan gerçeği dikmeye çalışma! Tutmaz.",
+    "author": "Cenap Şahabettin",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 229,
+    "text": "Yalnız kendi nefsini düşünerek dost arayan, hizmetçi arıyor demektir.",
+    "author": "Cenab Şahabettin",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 230,
+    "text": "Yanıldığını asla kabul etmeyenler, en çok yanılanlardır.",
+    "author": "La Rochefoucauld",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 231,
+    "text": "Yapılmış küçük işler, planlanmış büyük işlerden çok daha iyidir.",
+    "author": "Peter Marshall",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 232,
+    "text": "Yarın bambaşka bir insan olacağım diyorsun. Niçin bugünden başlamıyorsun?",
+    "author": "Epiktetos",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 233,
+    "text": "Yaşam kısa, sanat uzundur.",
+    "author": "Hippokrates",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 234,
+    "text": "Yaşamak solumak değil, çalışmaktır.",
+    "author": "J.J. Rousseau",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 235,
+    "text": "Yaşamanın amacı, hoşa gitmeyen şeylerden kaçmak değil, hoşa gitmeyen şeyleri yenmektir.",
+    "author": "F.W. Foerster",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 236,
+    "text": "Yenilince ümitsizliğe kapılma, her başarısızlıkta bir zafer arzusu yatar.",
+    "author": "Germain Martin",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 237,
+    "text": "Yiğit olan sırrını kimseye demez, kötü kalbindekini dile getirir.",
+    "author": "Karacaoğlan",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 238,
+    "text": "Yurdu savunmanın en ucuz yolu, eğitimdir.",
+    "author": "Burke",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 239,
+    "text": "Zafer, iradededir.",
+    "author": "Napolyon",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 240,
+    "text": "Zevke esir olan değil, hakim olan mesuttur.",
+    "author": "Aristippas",
+    "category": null,
+    "isFavorite": false
+  },
+  {
+    "id": 241,
+    "text": "Zorluk çeken rahat bulur.",
+    "author": "Şinasi",
     "category": null,
     "isFavorite": false
   }
+]
 ]
